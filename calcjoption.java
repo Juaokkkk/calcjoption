@@ -1,5 +1,3 @@
-import javax.swing.DefaultBoundedRangeModel;
-import javax.swing.Icon;
 import javax.swing.JOptionPane;
 
 public class arquivoaula {
