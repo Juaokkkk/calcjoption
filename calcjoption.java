@@ -12,11 +12,6 @@ public class arquivoaula {
         int number = Integer.parseInt(num);
         int number2 = Integer.parseInt(num2);
         int resultado;
-        switch (operacao) {
-            case "somar":
-                resultado = number + number2;
-                JOptionPane.showMessageDialog(null, "o resultado é: " + resultado);
-        }
 
         switch (operacao) {
             case "+":
