@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class arquivoaula {
+public class calcjoption {
     public static void main(String args[]) {
 
         String num = JOptionPane.showInputDialog(null, "Digite um numero:");
